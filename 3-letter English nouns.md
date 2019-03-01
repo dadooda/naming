@@ -215,7 +215,7 @@ pup
 
 ## Q
 
-None known.
+_None known._
 
 ## R
 
@@ -272,7 +272,7 @@ two
 
 ## U
 
-None known.
+_None known._
 
 ## V
 
@@ -292,7 +292,7 @@ wow
 
 ## X
 
-None known.
+_None known._
 
 ## Y
 
